@@ -13,7 +13,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/onsi/ginkgo/v2 v2.20.2
 	github.com/onsi/gomega v1.34.1
-	github.com/openshift/api v0.0.0-20241206130210-831aaaf072a9
+	github.com/openshift/api v0.0.0-20241106140330-29f8c3425144
 	github.com/openshift/machine-api-operator v0.2.1-0.20240924110326-1efafa4a6615
 	github.com/pkg/errors v0.9.1
 	github.com/ppc64le-cloud/powervs-utils v0.0.0-20240610070307-1c0d75a5c247
